@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1670430558 source:c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"mylib.h"
+	"Formateur.h"
+	"Candidat.h"
+	"Formation.h"
+	"SessionFormation.h"
+	"Verifications.c"
+	"Formateur.c"
+	"Candidat.c"
+	"Formation.c"
+	"SessionFormation.c"
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1670418159 c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\mylib.h
+
+1670451323 c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\formateur.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1668376213 source:c:\users\abirb\documents\github\geformation\geformation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mylib.h"
+	"Formateur.c"
+	"Candidat.c"
+	"Formation.c"
+	"SessionFormation.c"
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1668371894 c:\users\abirb\documents\github\geformation\geformation\mylib.h
+
+1668371894 c:\users\abirb\documents\github\geformation\geformation\formateur.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1668198320 source:c:\users\abirb\documents\github\geformation\geformation\candidat.c
+
+1668329831 source:c:\users\abirb\documents\github\geformation\geformation\formation.c
+
+1668180019 source:c:\users\abirb\documents\github\geformation\geformation\sessionformation.c
+
+1668374300 c:\users\abirb\documents\github\geformation\geformation\candidat.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1668376431 c:\users\abirb\documents\github\geformation\geformation\formation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1670431130 c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\candidat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1670452611 c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\formation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1670452898 c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\sessionformation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1668376213 c:\users\abirb\documents\github\geformation\geformation\sessionformation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1670448144 c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\formateur.h
+	<stdbool.h>
+
+1670448144 c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\candidat.h
+	<stdbool.h>
+
+1670448144 c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\formation.h
+	<stdbool.h>
+
+1670448144 c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\sessionformation.h
+	<stddef.h>
+
+1670434172 source:c:\users\abirb\documents\github\geformation\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"mylib.h"
+	"Formateur.h"
+	"Candidat.h"
+	"Formation.h"
+	"SessionFormation.h"
+	"Verifications.c"
+	"Formateur.c"
+	"Candidat.c"
+	"Formation.c"
+	"SessionFormation.c"
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1670434172 c:\users\abirb\documents\github\geformation\mylib.h
+
+1670449570 c:\users\abirb\documents\github\geformation\formateur.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1670434172 c:\users\abirb\documents\github\geformation\candidat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1670452968 c:\users\abirb\documents\github\geformation\formation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1670452968 c:\users\abirb\documents\github\geformation\sessionformation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1670444677 c:\users\abirb\documents\github\geformation\candidat.h
+	<stdbool.h>
+
+1670444676 c:\users\abirb\documents\github\geformation\formation.h
+	<stdbool.h>
+
+1670444677 c:\users\abirb\documents\github\geformation\sessionformation.h
+	<stddef.h>
+
+1670444677 c:\users\abirb\documents\github\geformation\formateur.h
+	<stdbool.h>
+
+1670342964 c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\verifications.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<time.h>
+
+1670327141 c:\users\abirb\documents\github\geformation\verifications.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<time.h>
+
+1670148690 source:c:\users\abirb\documents\github\geformation\verifications.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1670149264 source:c:\users\admin\desktop\angulartemplates\serviceplatform\geformation\geformation\verifications.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
